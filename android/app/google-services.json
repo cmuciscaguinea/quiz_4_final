@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "844089529553",
+    "firebase_url": "https://itsd84-quiz-4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "itsd84-quiz-4",
+    "storage_bucket": "itsd84-quiz-4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844089529553:android:10b55d82a57139d58de1f0",
+        "android_client_info": {
+          "package_name": "com.example.quiz_4_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf7qoEm9CIQUstnhdVLeezZb18J4Kw6dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
